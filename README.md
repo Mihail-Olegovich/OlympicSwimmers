@@ -7,4 +7,4 @@
 ### Проделаны этапы: 
 
 
-## Файл решения тут: [](https://nbviewer.org/github/Mihail-Olegovich/OlympicSwimmers/blob/master/Olympic%20swimmers.ipynb)
+## Файл решения тут: [nbviewer](https://nbviewer.org/github/Mihail-Olegovich/OlympicSwimmers/blob/master/Olympic%20swimmers.ipynb)
